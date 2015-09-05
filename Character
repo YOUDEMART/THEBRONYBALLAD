@@ -1,0 +1,4 @@
+define e = Character('Сергей Белых', color="#c8ffc8")
+define m =Character('Суйсеисеки', color="#0000FF")
+define y =Character('Тетя Yoba', color="##007FFF")
+#Герои игры на данный момент, обновление раз в день.
